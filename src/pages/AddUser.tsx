@@ -67,7 +67,7 @@ export default function AddUser() {
 
   return (
     <div className="max-w-lg mx-auto">
-      <h1 className="text-2xl font-bold mb-6">Add New User</h1>
+      <h1 className="text-2xl font-bold mb-6">AddSS New User</h1>
       <form onSubmit={handleSubmit} className="bg-white shadow-md rounded-lg p-6">
         <Input
           label="Name"
